@@ -10,6 +10,8 @@
 
 [ダウンロードはこちら(CurseForge)](https://www.curseforge.com/minecraft/mc-mods/enchant-with-mob)
 
+### HunterIllager
+
 ![](https://baguchan.github.io/public/image/hunter_illager.png)
 
 ハンターイリジャーというイリジャー系モブを一種類追加するmod
