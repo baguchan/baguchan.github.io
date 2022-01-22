@@ -17,13 +17,16 @@
 
 #### 2019年　最初の有名モッド HunterIllagerを作った
 
-![](https://github.com/baguchan/baguchan.github.io/blob/main/public/image/hunter_illager.png)
+![](https://baguchan.github.io/public/image/hunter_illager.png)
 
 ハンターイリジャーのmodを公開したとき海外の人に好評。
 
 のちにとあるmodの界隈に貼ったところ、改善案をだされ、彼がなんと新しいテクスチャやモデルを提供してくれた。
 
 #### 2020年 EnchantWithMobを作り出す
+
+![](https://baguchan.github.io/public/image/enchanter.png)
+
 
 マインクラフトダンジョンズが公開され、さっそくモブエンチャントをマインクラフト本編に追加するmodを製作。
 
